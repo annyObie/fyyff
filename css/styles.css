@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+.pdfobject-container { 
+  height: 500px;
+  width: 500px;
+}
+.pdfobject { 
+  border: 20px solid #fff; 
+}
